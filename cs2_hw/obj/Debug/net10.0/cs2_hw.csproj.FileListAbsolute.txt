@@ -1,0 +1,15 @@
+E:\ProjectsCs\cs2_hw\cs2_hw\bin\Debug\net10.0\cs2_hw.exe
+E:\ProjectsCs\cs2_hw\cs2_hw\bin\Debug\net10.0\cs2_hw.deps.json
+E:\ProjectsCs\cs2_hw\cs2_hw\bin\Debug\net10.0\cs2_hw.runtimeconfig.json
+E:\ProjectsCs\cs2_hw\cs2_hw\bin\Debug\net10.0\cs2_hw.dll
+E:\ProjectsCs\cs2_hw\cs2_hw\bin\Debug\net10.0\cs2_hw.pdb
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.AssemblyInfoInputs.cache
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.AssemblyInfo.cs
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.csproj.CoreCompileInputs.cache
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.dll
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\refint\cs2_hw.dll
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.pdb
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.genruntimeconfig.cache
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\ref\cs2_hw.dll
+E:\ProjectsCs\cs2_hw\cs2_hw\obj\Debug\net10.0\cs2_hw.csproj.Up2Date
